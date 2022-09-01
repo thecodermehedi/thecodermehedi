@@ -1,14 +1,18 @@
 ![Github Banner](assets/iammrmehedi-githubBanner.png)
 
-### Hi there nice to meet you <img src="assets/hello.gif" width="28px" alt="hi">
-
-I'm Mehedi, a Front-End Web Designer from <img src="assets/bangladesh.png" width="18"> Bangladesh and A Technophile who loves to learn and explore new things.
-
-<h3 align="left">Connect with me!</h3>
+<h1 align="center">Hi there nice to meet you <img src="assets/hello.gif" width="28px" alt="hi"></h1>
 
 ###
 
-<div align="left">
+<h4 align="center">I'm Mehedi, a Front-End Web Designer from <img src="assets/bangladesh.png" width="18">  Bangladesh and A Technophile who loves to learn and explore new things.</h4>
+
+###
+
+<h3 align="center">Connect with me!</h3>
+
+###
+
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -20,11 +24,11 @@ I'm Mehedi, a Front-End Web Designer from <img src="assets/bangladesh.png" width
 
 :e-mail: &emsp;How to reach me: iammrmehedi@outlook.com.<br/>
 
-<h3 align="left">💻 Things I code with :</h3>
+<h3 align="center">💻 Things I code with :</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
@@ -36,7 +40,7 @@ I'm Mehedi, a Front-End Web Designer from <img src="assets/bangladesh.png" width
 
 ###
 
-<h3 align="left">📊 GitHub Stats :</h3>
+<h3 align="center">📊 GitHub Stats :</h3>
 
 ###
 
@@ -47,7 +51,7 @@ I'm Mehedi, a Front-End Web Designer from <img src="assets/bangladesh.png" width
 
 ###
 
-<h3 align="left">Visitors :</h3>
+<h3 align="center">Visitors :</h3>
 
 ###
 
