@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">I'm Mehedi, a Front-End Web Designer from <img src="assets/bangladesh.png" width="18">  Bangladesh and A Technophile who loves to learn and explore new things.</h4>
+<h4 align="center">I'm Mehedi, a Front-End Web Designer from <img src="assets/bangladesh.png" width="18"> Bangladesh and A Technophile who loves to learn and explore new things.</h4>
 
 ###
 
@@ -22,9 +22,9 @@
 
 ###
 
-:e-mail: &emsp;How to reach me: iammrmehedi@outlook.com.<br/>
+<p align="center">:e-mail: &emsp;How to reach me: iammrmehedi@outlook.com</p> <br/>
 
-<h3 align="center">💻 Things I code with :</h3>
+<h3 align="center">Things I code with</h3>
 
 ###
 
@@ -40,18 +40,18 @@
 
 ###
 
-<h3 align="center">📊 GitHub Stats :</h3>
+<h3 align="center">Stats</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=iammrmehedi" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&username=iammrmehedi" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=iammrmehedi" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&username=iammrmehedi" height="92" alt="languages graph"  />
 </div>
 
 ###
 
-<h3 align="center">Visitors :</h3>
+<h3 align="center">Visitors</h3>
 
 ###
 
