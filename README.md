@@ -90,6 +90,3 @@
 <img href="https://raw.githubusercontent.com/iammrmehedi/iammrmehedi/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-<a href = "mailto: iammrmehedi@outlook.com">Send me a Email</a>
