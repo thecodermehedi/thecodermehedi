@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">I'm Mehedi, a Front-End Web Designer from <img src="assets/bangladesh.png" width="18"> Bangladesh and A Technophile who loves to learn and explore new things.</h3>
+<h3 align="center">I'm Mehedi, a Front-End Web Designer from <img src="assets/bangladesh.png" width="18"> Bangladesh who loves to learn and explore new things.</h3>
 
 ###
 
