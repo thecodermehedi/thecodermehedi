@@ -71,7 +71,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/iammrmehedi/iammrmehedi/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/iammrmehedi/iammrmehedi/tree/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
