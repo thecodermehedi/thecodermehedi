@@ -11,7 +11,7 @@
 ###
 <h4 align="center">
   
- 🔭 I’m currently working on [TailFind](https://github.com/iammrmehedi/TailFind) - 🌱 I’m currently learning **PHP, LARAVEL** - 👨‍💻 All of my projects are available at [Portfolio](https://iammrmehedi.github.io) - 📝 I regularly write articles on [Blogspot](https://iammrmehedi.blogspot.com) - 💬 Ask me about **HTML5, CSS3, PHP** - 📫 How to reach me **mrmehedicse@gmail.com**
+ 🔭 I’m currently working on [TailFind](https://github.com/iammrmehedi/TailFind) - 🌱 I’m currently learning **PHP, LARAVEL** - 👨‍💻 All of my projects are available at [Portfolio](https://iammrmehedi.github.io) - 📝 I regularly write articles on [Blogspot](https://iammrmehedi.blogspot.com) - 💬 Ask me about **HTML5, CSS3, PHP** - 📫 How to reach me **mehedicoder.dev@gmail.com**
   
 </h4>
 
