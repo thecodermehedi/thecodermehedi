@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">A Full Stack Web Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh who loves to learn and explore new things.</h4>
+<h4 align="center">A Front-End React Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh who loves to learn and explore new things.</h4>
 
 ###
 
@@ -10,9 +10,7 @@
 
 ###
 <h4 align="center">
-  
- 🔭 I’m currently working on [TailFind](https://github.com/iammrmehedi/TailFind) - 🌱 I’m currently learning **PHP, LARAVEL** - 👨‍💻 All of my projects are available at [Portfolio](https://iammrmehedi.github.io) - 📝 I regularly write articles on [Blogspot](https://iammrmehedi.blogspot.com) - 💬 Ask me about **HTML5, CSS3, PHP** - 📫 How to reach me **mehedicoder.dev@gmail.com**
-  
+ 📫 Email: **mehedicoder.dev@gmail.com**
 </h4>
 
 ###
@@ -43,13 +41,8 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="80" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="80" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" width="80" alt="laravel logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" width="80" alt="photoshop logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" width="80" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain-wordmark.svg" height="40" width="80" alt="chrome logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain-wordmark.svg" height="40" width="80" alt="firefox logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" width="80" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40" width="80" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" width="80" alt="vscode logo"  />
 </div>
 
 ###
@@ -65,12 +58,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="80" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="80" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="40" alt="gmail logo"  />
-</div>
+  <a href="https://www.linkedin.com/in/iammrmehedi/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="linkedin logo"  /></a>
 
 ###
 
