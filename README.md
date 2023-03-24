@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">A Front-End React Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh who loves to learn and explore new things.</h4>
+<h4 align="center">A Front-End Web Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh who loves to learn and explore new things.</h4>
 
 ###
 
