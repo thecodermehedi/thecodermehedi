@@ -11,13 +11,14 @@
 <br>
 <div align="center">
       <a href="https://github.com/devbytemehedi">
-        <img alt="GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=devbytemehedi&custom_title=GitHub%20Stats&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&hide_title=true" />
+        <img alt="GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=devbytemehedi&custom_title=GitHub%20Stats&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&hide_title=false" />
       </a>
 </div>
 <br>
 <br>
 
 ---
+
 <div align="center">
   <a href="https://www.linkedin.com/in/devbytemehedi/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
