@@ -6,7 +6,7 @@
   </h1>
 </div>
 
-<h2 align="center">Web Developer | Blogger | Tech Support Specialist
+<h2 align="center"> 👨‍💻 Web Developer |  📝 Blogger |  💻 Tech Support Specialist
 <br>
 <br>
 <div align="center">
