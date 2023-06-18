@@ -23,11 +23,13 @@
 </div>
 
 ##
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
 
-**⚡ Github Stats**
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbytemehedi&&layout=compact&&hide_border=true&theme=github_dark&cache_seconds=1000&custom_title=Languages" /><img height="180em" src="https://github-readme-stats.vercel.app/api?username=devbytemehedi&&layout=compact&&hide_border=true&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats"/>
-
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbytemehedi&&layout=compact&&hide_border=true&theme=github_dark&cache_seconds=1000&custom_title=Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devbytemehedi&&layout=compact&&hide_border=true&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats"/>
+</details>
 
 ### Conect with me 
 
