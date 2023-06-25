@@ -6,7 +6,7 @@
   </h1>
 </div>
 
-<h2 align="center"> 👨‍💻 Web Developer |  📝 Blogger |  💻 Tech Support Specialist
+<h2 align="center"> Passionate 🌟Web Developer 👨‍💻 Mastering Full-Stack
 <br>
 <br>
 <div align="center">
@@ -19,20 +19,7 @@
 
 ---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/devbytemehedi/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://dev.to/devbytemehedi">
-   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
-  </a>
-  <a href="https://codepen.io/devbytemehedi">
-  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
-  </a> 
-  <a href="mailto:devbytemehedi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/iamrealmehedi/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/iamrealmehedi/)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devbytemehedi/)[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/devbytemehedi)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devbytemehedi@gmail.com)
 <br>
 <br>
 <p align="center">
