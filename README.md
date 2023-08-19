@@ -1,13 +1,15 @@
   <h1>
-    <b><img src="./assets/smilefacesunglass.png" width="28"> Assalamu Alaikum, I'm <a href="https://github.com/devbytemehedi">Mehedi</a>  <img src="./assets/hello.png" width="30"> </b>
+    <b><img src="./assets/smilefacesunglass.png" width="28"> Assalamu Alaikum, I'm <a href="https://github.com/devbytemehedi">Mehedi</a>  <img src="./assets/hello.png" width="30"> </b> 
   </h1>
-
+  
  ![Count views](https://komarev.com/ghpvc/?username=devbytemehedi&color=1a71ff&style=for-the-badge&label=👀) <!--&label=Visitors-->[![Website Badge](https://img.shields.io/badge/MHDEV-1a71ff?style=for-the-badge&labelColor=gray&logo=firefox&logoColor=white)](https://dub.sh/mhdev)
 
 
 <!--![Visitors](https://komarev.com/ghpvc/?username=devbytemehedi&style=flat&logo=github&logoColor=white&label=Visitors)-->
 
 <!--[![My resume](https://img.shields.io/badge/-Resume-1a71ff)](https://resume.io/r/wIZvxMmqH)-->
+
+💻 I'm a Passionate `Web Developer` Learning `Front End`.
   
 💼 I’m currently working in ****Interactive Web Design****
 
