@@ -26,6 +26,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devbytemehedi&&layout=compact&&hide_border=true&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats"/>
 </div>
 
+## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=devbytemehedi&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1080)](https://git.io/streak-stats)
+
 ##  OS, Terminal & Shell I Use
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
@@ -39,5 +42,4 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/iamrealmehedi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](http://instagram.com/iamrealmehedi) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devbytemehedi/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/devbytemehedi)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devbytemehedi)  [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/devbytemehedi) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devbytemehedi@gmail.com)
 
-## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=devbytemehedi&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1080)](https://git.io/streak-stats)
+![snake gif](https://github.com/devbytemehedi/devbytemehedi/blob/output/github-contribution-grid-snake-dark.svg)
