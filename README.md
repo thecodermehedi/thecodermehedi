@@ -1,7 +1,7 @@
   <div align="center">
 
- <h1>Hi <img src="./assets/hello.png" width="25"> I'm <a href="https://github.com/devbytemehedi">Mehedi Hasan</a> <img src=" ./assets/smilefacesunglass.png" width="28"></h1> 
- <h3>A passionate <u>Frontend Developer</u> from Bangladesh (:bangladesh:).</h3>
+ <h1>Hi <img src="./assets/hello.png" width="25"> I'm <a href="https://github.com/devbytemehedi">Mehedi Hasan</a> <img src="./assets/smilefacesunglass.png" width="28"></h1> 
+ <h3>A passionate <u>Frontend Developer</u> from Bangladesh ( :bangladesh: ).</h3>
 
 ![Count views](https://komarev.com/ghpvc/?username=devbytemehedi&color=1a71ff&style=for-the-badge&label=👀) [![Website Badge](https://img.shields.io/badge/website-1a71ff?style=for-the-badge&labelColor=gray&logo=firefox&logoColor=white)](https://dub.sh/mhdev)
 
