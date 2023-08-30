@@ -21,6 +21,7 @@
 ### 📕 Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MSMG Toolkit: A Tool for Customizing and Optimizing Windows Installations](https://dev.to/devbytemehedi/msmg-toolkit-a-tool-for-customizing-and-optimizing-windows-installations-1g7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ### 💼 Projects
