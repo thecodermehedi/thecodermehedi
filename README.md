@@ -1,11 +1,15 @@
-<p align="right"><a href="https://github.com/devbytemehedi"><img src="https://komarev.com/ghpvc/?username=devbytemehedi&color=1a71ff&style=flat&label=👀" alt="Visitors"></a></p>
+
 
 <div align="center">
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm <a href="https://github.com/devbytemehedi">Mehedi Hasan</a> <img src="./assets/smilefacesunglass.png" width="25"></h1>  
-<h3>🎨Designer || 🧑‍💻Developer || 📝Blogger</h3>
   
+[![Visitors](https://komarev.com/ghpvc/?username=devbytemehedi&color=1a71ff&style=for-the-badge&label=Visitors)](https://github.com/devbytemehedi)
 [![Wakatime](https://wakatime.com/badge/user/805ef0e4-46bb-49a3-bffc-fd6ca82758b5.svg?style=for-the-badge)](https://wakatime.com/@devbytemehedi)
 <!--[![Website Badge](https://img.shields.io/badge/website-1a71ff?style=for-the-badge&label=🌐)](https://dub.sh/mhdev)-->
+<p align="center">
+  <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=🎨+Web+Designer;🧑‍💻+Front+End+Developer;📝+Blogger"></a>
+</p>
+
 </div>
 
 💻 Currently working in [**PhoneHunter**](https://github.com/devbytemehedi/phonehunter)
@@ -28,7 +32,7 @@
 - [MSMG Toolkit: A Tool for Customizing and Optimizing Windows Installations](https://dev.to/devbytemehedi/msmg-toolkit-a-tool-for-customizing-and-optimizing-windows-installations-1g7b)
 <!-- BLOG-POST-LIST:END -->
 
- ### 💼 Projects
+ ### 💼 Projects (Websites)
 
 <a href="https://github.com/devbytemehedi/phonehunter ">
   <img width="50%" height="200" src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=phonehunter&layout=compact&hide_border=true&theme=tokyonight&show_icons=true" />
