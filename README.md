@@ -36,7 +36,8 @@
 - [MSMG Toolkit: A Tool for Customizing and Optimizing Windows Installations](https://dev.to/devbytemehedi/msmg-toolkit-a-tool-for-customizing-and-optimizing-windows-installations-1g7b)
 <!-- BLOG-POST-LIST:END -->
 
-<details><summary><h3>💼 Projects</h3></summary>
+### 💼 Projects
+
 <div style="display: flex;">
 <a href="https://github.com/devbytemehedi/phonehunter ">
   <img  src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=phonehunter&layout=compact&hide_border=true&theme=tokyonight&show_icons=true" style="height: 200; width: 50%;" />
@@ -53,7 +54,6 @@
   <img  src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=stylewrite&layout=compact&hide_border=true&theme=tokyonight&show_icons=true"style="height: 200; width: 49%;"/>
 </a>
 </div>
-</details>
 
 
 ### 💻 Things I code with
