@@ -23,7 +23,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### 💼 Projects
+<!-- ### 💼 Projects
 
 <a href="https://github.com/devbytemehedi/phonehunter ">
   <img align="center" src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=phonehunter&layout=compact&hide_border=true&theme=tokyonight&show_icons=true" />
@@ -37,7 +37,7 @@
 </a>
 <a href="https://github.com/devbytemehedi/stylewrite ">
   <img align="center" src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=stylewrite&layout=compact&hide_border=true&theme=tokyonight&show_icons=true"/>
-</a>
+</a> -->
 
 ## 🤝 Connect with me
 
