@@ -40,18 +40,18 @@
 
 <div style="display: flex;">
 <a href="https://github.com/devbytemehedi/phonehunter ">
-  <img  src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=phonehunter&layout=compact&hide_border=true&theme=tokyonight&show_icons=true" style="height: 200; width: 50%;" />
+  <img  src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=phonehunter&layout=compact&hide_border=true&theme=tokyonight&show_icons=true&cache_seconds=1000" style="height: 200; width: 50%;" />
 </a>
 <a href="https://github.com/devbytemehedi/shopwave ">
-  <img src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=shopwave&layout=compact&hide_border=true&theme=tokyonight&show_icons=true" style="height: 200; width: 49%;"/>
+  <img src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=shopwave&layout=compact&hide_border=true&theme=tokyonight&show_icons=true&cache_seconds=1000" style="height: 200; width: 49%;"/>
 </a>
 </div>
   <div style="display: flex;">
 <a href="https://github.com/devbytemehedi/fruitpicks ">
-  <img src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=fruitpicks&layout=compact&hide_border=true&theme=tokyonight&show_icons=true"style="height: 200; width: 50%;"/>
+  <img src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=fruitpicks&layout=compact&hide_border=true&theme=tokyonight&show_icons=true&cache_seconds=1000"style="height: 200; width: 50%;"/>
 </a>
 <a href="https://github.com/devbytemehedi/stylewrite ">
-  <img  src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=stylewrite&layout=compact&hide_border=true&theme=tokyonight&show_icons=true"style="height: 200; width: 49%;"/>
+  <img  src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=stylewrite&layout=compact&hide_border=true&theme=tokyonight&show_icons=true&cache_seconds=1000"style="height: 200; width: 49%;"/>
 </a>
 </div>
 
