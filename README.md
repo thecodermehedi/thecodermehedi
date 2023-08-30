@@ -72,12 +72,11 @@
 
 ![snake gif](https://github.com/devbytemehedi/devbytemehedi/blob/output/github-contribution-grid-snake-dark.svg)
 
-<details><summary>👀 More about me? </summary>
-  
-<h3>🔥 GitHub Streak</h3>
+<!--👀 More about me?-->
+<details><summary><h4>🔥 GitHub Streak</h4></summary>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devbytemehedi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D0&card_width=1020" alt="GitHub Streak"></a>
 
-<h3>⏲️ Wakatime Stats</h3>
-<a href="https://wakatime.com/@devbytemehedi"><img align="center" src="https://github-readme-stats-devbytemehedi.vercel.app/api/wakatime?username=devbytemehedi&theme=tokyonight&layout=compact&hide_border=true" alt="Mehedi's wakatime stats"></a>
+<!--<h4>⏲️ Wakatime Stats</h4>
+<a href="https://wakatime.com/@devbytemehedi"><img align="center" src="https://github-readme-stats-devbytemehedi.vercel.app/api/wakatime?username=devbytemehedi&theme=tokyonight&layout=compact&hide_border=true" alt="Mehedi's wakatime stats"></a>-->
 
 </details>
