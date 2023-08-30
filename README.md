@@ -1,36 +1,47 @@
-  <div align="center">
+<div align="center">
+<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm <a href="https://github.com/devbytemehedi">Mehedi Hasan</a> <img src="./assets/smilefacesunglass.png" width="25"></h1>
+<h3>🎨Designer || 🧑‍💻Developer || 📝Blogger</h3>
+  
+[![Count views](https://komarev.com/ghpvc/?username=devbytemehedi&color=1a71ff&style=for-the-badge&label=👀)](https://github.com/devbytemehedi) [![Website Badge](https://img.shields.io/badge/website-1a71ff?style=for-the-badge&label=🌐)](https://dub.sh/mhdev) [![Wakatime](https://wakatime.com/badge/user/805ef0e4-46bb-49a3-bffc-fd6ca82758b5.svg?style=for-the-badge)](https://wakatime.com/@devbytemehedi)
 
- <h1>Hi <img src="./assets/hello.png" width="25"> I'm <a href="https://github.com/devbytemehedi">Mehedi Hasan</a> <img src="./assets/smilefacesunglass.png" width="28"></h1> 
- <h3>A passionate <u>Frontend Developer</u> from Bangladesh ( :bangladesh: ).</h3>
+</div>
 
-![Count views](https://komarev.com/ghpvc/?username=devbytemehedi&color=1a71ff&style=for-the-badge&label=👀) [![Website Badge](https://img.shields.io/badge/website-1a71ff?style=for-the-badge&labelColor=gray&logo=firefox&logoColor=white)](https://dub.sh/mhdev)
+💻 Currently working in [**PhoneHunter**](https://github.com/devbytemehedi/phonehunter)
 
-  </div>
+🧠 Currently learning [**Javascript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-💻 I’m currently working in [**PhoneHunter**](https://github.com/devbytemehedi/phonehunter)
+✍️ Enjoy writing blogs on [**dev.to**](https://dev.to/devbytemehedi)
 
-👨‍💻 I’m currently learning [**Javascript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+📫 Mail me: [**devbytemehedi@gmail.com**](mailto:devbytemehedi@gmail.com)
 
-✍️ I regularly write articles on [**DEV Community**](https://dev.to/devbytemehedi)
+❤️ Enjoy crafting things like **[VSCode Theme](https://dub.sh/clearview)**, **[Prompt Theme](https://dub.sh/dualsimplicity)**, **[Bootloader Theme](https://github.com/devbytemehedi?tab=repositories&q=refind)**
 
-❤️ I enjoy crafting things like **[VSCode Theme](https://dub.sh/clearview)**, **[Prompt Theme](https://dub.sh/dualsimplicity)**, **[Bootloader Theme](https://github.com/devbytemehedi?tab=repositories&q=refind)**, etc.
+⚡ Fun fact: My code **DOESN’T** work, I have no idea why. My code **WORKS**, I have no idea why.
 
-📫 How to reach me **devbytemehedi@gmail.com**
-
-🎉 Fun fact: I love Anime, Manhwa & Foreign Language.
-
-<div>
-
-### 📝 Blogs posts
+### 📕 Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+### 💼 Projects
+
+<a href="https://github.com/devbytemehedi/phonehunter ">
+  <img align="center" src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=phonehunter&layout=compact&hide_border=true&theme=tokyonight&show_icons=true" />
+</a>
+<a href="https://github.com/devbytemehedi/shopwave ">
+  <img align="center" src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=shopwave&layout=compact&hide_border=true&theme=tokyonight&show_icons=true" />
+</a>
+
+<a href="https://github.com/devbytemehedi/fruitpicks ">
+  <img align="center" src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=fruitpicks&layout=compact&hide_border=true&theme=tokyonight&show_icons=true"/>
+</a>
+<a href="https://github.com/devbytemehedi/stylewrite ">
+  <img align="center" src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=stylewrite&layout=compact&hide_border=true&theme=tokyonight&show_icons=true"/>
+</a>
+
 ## 🤝 Connect with me
 
-[![Facebook](./assets/icons8-facebook-50.svg)](https://facebook.com/iamrealmehedi) [![Instagram](./assets/icons8-instagram-50.svg)](http://instagram.com/iamrealmehedi) [![LinkedIn](./assets/icons8-linkedin-50.svg)](https://www.linkedin.com/in/devbytemehedi/) [![Twitter](./assets/icons8-twitter-50.svg)](https://twitter.com/devbytemehedi) [![Dev.to blog](./assets/icons8-dev-50.svg)](https://dev.to/devbytemehedi) [![Gmail](./assets/icons8-gmail-50.svg)](mailto:devbytemehedi@gmail.com)
-
-<!-- [![GitHub](./assets/icons8-github-50.svg)](https://github.com/devbytemehedi)-->
+[![Facebook](./assets/icons8-facebook-50.svg)](https://facebook.com/iamrealmehedi) [![Instagram](./assets/icons8-instagram-50.svg)](http://instagram.com/iamrealmehedi) [![LinkedIn](./assets/icons8-linkedin-50.svg)](https://www.linkedin.com/in/devbytemehedi/) [![Twitter](./assets/icons8-twitter-50.svg)](https://twitter.com/devbytemehedi) [![Gmail](./assets/icons8-gmail-50.svg)](mailto:devbytemehedi@gmail.com)
 
 ### Languages & Tools
 
@@ -39,12 +50,19 @@
 
 ### 📊 Github Stats
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbytemehedi&&layout=compact&&hide_border=true&theme=github_dark&cache_seconds=1000&custom_title=Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devbytemehedi&&layout=compact&&hide_border=true&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats"/>
+  <img height="180em" src="https://github-readme-stats-devbytemehedi.vercel.app/api?username=devbytemehedi&layout=compact&hide_border=true&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats&cache_seconds=1000\&rank_icon=github&hide_title=true"/>
+  
+  <img height="180em" src="https://github-readme-stats-devbytemehedi.vercel.app/api/top-langs/?username=devbytemehedi&layout=compact&langs_count=8&hide_border=true&theme=github_dark&cache_seconds=1000&hide_title=true" />
 </div>
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=devbytemehedi&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=840)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=devbytemehedi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=840)](https://git.io/streak-stats)
+
+<details>
+<summary><h3>⏲️ Wakatime Stats</h3></summary>
+  
+[![Mehedi's wakatime stats](https://github-readme-stats-devbytemehedi.vercel.app/api/wakatime?username=devbytemehedi&theme=github_dark&layout=compact&hide_border=true)](https://wakatime.com/@devbytemehedi)
+</details>
 
 ![snake gif](https://github.com/devbytemehedi/devbytemehedi/blob/output/github-contribution-grid-snake-dark.svg)
