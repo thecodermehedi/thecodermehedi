@@ -1,6 +1,8 @@
+<div align="center">
+
 ![](./assets/front-end-dev.gif)
 
-<div align="center">
+
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm <a href="https://github.com/devbytemehedi">Mehedi Hasan</a> <img src="./assets/smilefacesunglass.png" width="25"></h1>  
   
 [![Visitors](https://komarev.com/ghpvc/?username=devbytemehedi&color=1a71ff&style=flat&label=Visitors)](https://github.com/devbytemehedi)
