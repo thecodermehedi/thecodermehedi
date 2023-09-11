@@ -5,7 +5,8 @@
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm <a href="https://github.com/devbytemehedi">Mehedi Hasan</a> <img src="./assets/smilefacesunglass.png" width="25"></h1>  
   
 [![Visitors](https://komarev.com/ghpvc/?username=devbytemehedi&color=1a71ff&style=flat&label=Visitors)](https://github.com/devbytemehedi)
-[![Wakatime](https://wakatime.com/badge/user/805ef0e4-46bb-49a3-bffc-fd6ca82758b5.svg?style=flat)](https://wakatime.com/@devbytemehedi)
+[![wakatime](https://wakatime.com/badge/user/805ef0e4-46bb-49a3-bffc-fd6ca82758b5/project/c1492a79-ac21-40a3-ad8f-124f6f839985.svg)](https://wakatime.com/badge/user/805ef0e4-46bb-49a3-bffc-fd6ca82758b5/project/c1492a79-ac21-40a3-ad8f-124f6f839985)
+<!-- [![Wakatime](https://wakatime.com/badge/user/805ef0e4-46bb-49a3-bffc-fd6ca82758b5.svg?style=flat)](https://wakatime.com/@devbytemehedi) -->
 
 <!--[![Website Badge](https://img.shields.io/badge/website-1a71ff?style=for-the-badge&label=🌐)](https://dub.sh/mhdev)-->
 
