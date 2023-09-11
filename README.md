@@ -2,7 +2,6 @@
 
 ![](./assets/front-end-dev.gif)
 
-
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm <a href="https://github.com/devbytemehedi">Mehedi Hasan</a> <img src="./assets/smilefacesunglass.png" width="25"></h1>  
   
 [![Visitors](https://komarev.com/ghpvc/?username=devbytemehedi&color=1a71ff&style=flat&label=Visitors)](https://github.com/devbytemehedi)
@@ -15,9 +14,9 @@
 </p>
 </div>
 
-⚒️ Currently working in [**PhoneHunter**](https://github.com/devbytemehedi/phonehunter)
+⚒️ Currently working in [**react-world-tour**](https://github.com/devbytemehedi/react-world-tour)
 
-🧠 Currently learning [**Javascript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+🧠 Currently learning [**react**](https://react.dev)
 
 ✍️ Enjoy writing blogs on [**dev.to**](https://dev.to/devbytemehedi)
 
@@ -36,7 +35,7 @@
 
 ### 💪 Skills:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### 🛠 Tools:
 
@@ -46,32 +45,33 @@
 ### 📊 Github Stats
 
 <div style="display: flex;">
-  <img alt="Mehedi's Github Stats" src="https://github-readme-stats-devbytemehedi.vercel.app/api?username=devbytemehedi&layout=compact&hide_border=true&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats&cache_seconds=1000\&rank_icon=github&hide_title=true" style="height: 200; width: 50%;">
-  <img alt="Mehedi's Top Languages" src="https://github-readme-stats-devbytemehedi.vercel.app/api/top-langs/?username=devbytemehedi&layout=compact&langs_count=8&hide_border=true&theme=github_dark&cache_seconds=1000&hide_title=true" style="height: 200; width: 49%;">
+  <img alt="Mehedi's Github Stats" src="https://github-readme-stats-devbytemehedi.vercel.app/api?username=devbytemehedi&layout=compact&hide_border=true&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats\&rank_icon=github&hide_title=true" style="height: 200; width: 50%;">
+  <img alt="Mehedi's Top Languages" src="https://github-readme-stats-devbytemehedi.vercel.app/api/top-langs/?username=devbytemehedi&layout=compact&langs_count=8&hide_border=true&theme=github_dark&hide_title=true" style="height: 200; width: 49%;">
 </div>
 
 ### 📕 Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [MSMG Toolkit: A Tool for Customizing and Optimizing Windows Installations](https://dev.to/devbytemehedi/msmg-toolkit-a-tool-for-customizing-and-optimizing-windows-installations-1g7b)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💼 Projects
 
 <div style="display: flex;">
-<a href="https://github.com/devbytemehedi/phonehunter ">
-  <img  src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=phonehunter&layout=compact&hide_border=true&theme=tokyonight&show_icons=true&cache_seconds=1000" style="height: 200; width: 50%;" />
+<a href="https://github.com/devbytemehedi/react-world-tour">
+  <img  src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=react-world-tour&layout=compact&hide_border=true&theme=tokyonight&show_icons=true" style="height: 200; width: 50%;" />
 </a>
-<a href="https://github.com/devbytemehedi/shopwave ">
-  <img src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=shopwave&layout=compact&hide_border=true&theme=tokyonight&show_icons=true&cache_seconds=1000" style="height: 200; width: 49%;"/>
+<a href="https://github.com/devbytemehedi/phtube ">
+  <img src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=phtube&layout=compact&hide_border=true&theme=tokyonight&show_icons=true" style="height: 200; width: 49%;"/>
 </a>
 </div>
-  <div style="display: flex;">
-<a href="https://github.com/devbytemehedi/fruitpicks ">
-  <img src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=fruitpicks&layout=compact&hide_border=true&theme=tokyonight&show_icons=true&cache_seconds=1000"style="height: 200; width: 50%;"/>
+<div style="display: flex;">
+<a href="https://github.com/devbytemehedi/phonehunter ">
+  <img  src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=phonehunter&layout=compact&hide_border=true&theme=tokyonight&show_icons=true" style="height: 200; width: 50%;" />
 </a>
-<a href="https://github.com/devbytemehedi/stylewrite ">
-  <img  src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=stylewrite&layout=compact&hide_border=true&theme=tokyonight&show_icons=true&cache_seconds=1000"style="height: 200; width: 49%;"/>
+<a href="https://github.com/devbytemehedi/shopwave ">
+  <img src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=shopwave&layout=compact&hide_border=true&theme=tokyonight&show_icons=true" style="height: 200; width: 49%;"/>
 </a>
 </div>
 
