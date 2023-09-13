@@ -15,11 +15,11 @@
 </p>
 </div>
 
-⚒️ Currently working in [**react-world-tour**](https://github.com/devbytemehedi/react-world-tour)
+⚒️ Currently working in [**BlogsByMehedi**](https://github.com/devbytemehedi/blogsbymehedi)
 
-🧠 Currently learning [**react**](https://react.dev)
+🧠 Currently learning [**React**](https://react.dev)
 
-✍️ Enjoy writing blogs on [**dev.to**](https://dev.to/devbytemehedi)
+✍️ Enjoy writing blogs on [**Dev.to**](https://dev.to/devbytemehedi)
 
 📫 Mail me: [**devbytemehedi@gmail.com**](mailto:devbytemehedi@gmail.com)
 
@@ -59,8 +59,8 @@
 ### 💼 Projects
 
 <div style="display: flex;">
-<a href="https://github.com/devbytemehedi/react-world-tour">
-  <img  src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=react-world-tour&layout=compact&hide_border=true&theme=tokyonight&show_icons=true" style="height: 200; width: 50%;" />
+<a href="https://github.com/devbytemehedi/blogsbymehedi">
+  <img  src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=blogsbymehedi&layout=compact&hide_border=true&theme=tokyonight&show_icons=true" style="height: 200; width: 50%;" />
 </a>
 <a href="https://github.com/devbytemehedi/phtube ">
   <img src="https://github-readme-stats-devbytemehedi.vercel.app/api/pin/?username=devbytemehedi&repo=phtube&layout=compact&hide_border=true&theme=tokyonight&show_icons=true" style="height: 200; width: 49%;"/>
@@ -77,11 +77,13 @@
 
 ![snake gif](https://github.com/devbytemehedi/devbytemehedi/blob/output/github-contribution-grid-snake-dark.svg)
 
-<!--👀 More about me?-->
-<details><summary><h4>🔥 GitHub Streak</h4></summary>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devbytemehedi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D0&card_width=1020" alt="GitHub Streak"></a>
+<h4>🔥 GitHub Streak</h4>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devbytemehedi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D0&card_width=840" alt="GitHub Streak"></a>
 
+<!--👀 More about me?-->
+<!-- <details><summary> -->
+<!-- </summary> -->
 <!--<h4>⏲️ Wakatime Stats</h4>
 <a href="https://wakatime.com/@devbytemehedi"><img align="center" src="https://github-readme-stats-devbytemehedi.vercel.app/api/wakatime?username=devbytemehedi&theme=tokyonight&layout=compact&hide_border=true" alt="Mehedi's wakatime stats"></a>-->
 
-</details>
+<!-- </details> -->
