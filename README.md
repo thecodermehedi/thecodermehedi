@@ -17,7 +17,7 @@
 
 </div>
 
-⚒️ Currently working in [**FireCoder**](https://github.com/firecoder-org/firecoder)
+⚒️ Currently working in [**FireCoder**](https://github.com/firecoder-org/website)
 
 🧠 Currently learning [**React**](https://react.dev)
 
