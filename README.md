@@ -23,10 +23,6 @@
         <td>I’m looking for help maintaining and growing <b><a href="https://dub.sh/clearviewGithub" target="_blank">ClearView</a></b>.</td>
     </tr>
     <tr>
-        <td>👨‍💻</td>
-        <td>Explore some of my tinkering on <b><a href="https://codepen.io/brandonmcconnell" target="_blank">CodePen</a></b>.</td>
-    </tr>
-    <tr>
         <td>💬</td>
         <td>Ask me about <b>CSS</b>, <b>Git</b>, <b>Tailwind</b>, <b>JavaScript</b>, <b>React</b>.</td>
     </tr>
