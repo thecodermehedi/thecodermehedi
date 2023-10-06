@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/thecodermehedi">Mehedi</a> 😎👋</h1>
 
 
-<h3 align="center">In here I play around with ideas, work late into the night, fix problems, and somehow creating even more in the end, but alas...মুই একজন ডেভেলপার ।  </h3>
+<h3 align="center">In here I play around with ideas, work late into the night, fix problems, and somehow creating even more bugs in the end, কিন্তু দূর্ভাগ্যবশত.....  এটাই  ডেভেলপারদের জীবন ।  </h3>
 
 <div align="center">
 
