@@ -11,7 +11,7 @@ I'm <b>Mehedi</b>, a Full Stack Web Application Developer from <b>Bangladesh</b>
 
 <table border="0">
     <tr>
-        <td>💻 Front-End</td> <td><img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+        <td>💻 Frontend</td> <td><img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
@@ -57,11 +57,11 @@ I'm <b>Mehedi</b>, a Full Stack Web Application Developer from <b>Bangladesh</b>
 </table>
 
 
-### 📊 Github Stats
+### 📊 Stats
 
 <div style="display: flex;">
-  <img alt="Mehedi's Github Stats" src="https://github-readme-stats-thecodermehedi.vercel.app/api?username=thecodermehedi&layout=compact&hide_border=true&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats\&rank_icon=github&hide_title=true" style="height: 200; width: 49%;">
-  <img alt="Mehedi's Top Languages" src="https://github-readme-stats-thecodermehedi.vercel.app/api/top-langs/?username=thecodermehedi&layout=compact&langs_count=8&hide_border=true&theme=github_dark&hide_title=true" style="height: 200; width: 49%;">
+  <img alt="Stats" src="https://github-readme-stats-thecodermehedi.vercel.app/api?username=thecodermehedi&layout=compact&hide_border=true&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats\&rank_icon=github&hide_title=true" style="height: 200; width: 49%;">
+  <img alt="Languages" src="https://github-readme-stats-thecodermehedi.vercel.app/api/top-langs/?username=thecodermehedi&layout=compact&langs_count=8&hide_border=true&theme=github_dark&hide_title=true" style="height: 200; width: 49%;">
 </div>
 
 ![snake gif](https://github.com/thecodermehedi/thecodermehedi/blob/output/github-contribution-grid-snake-dark.svg)
