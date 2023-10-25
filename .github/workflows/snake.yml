@@ -8,7 +8,7 @@ on:
 
   push:
     branches:
-      - v3
+      - main
 
 jobs:
   generate:
