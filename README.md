@@ -2,7 +2,7 @@
 
 I'm <b>Mehedi</b>, a Full Stack 🧑🏻‍💻 Developer from <b>Bangladesh</b>. Who spend most of time ⛓️ coding & 🥼 experimenting.
 
-#### ☕ Connect with me
+### ☕ Connect with me
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/thecodermehedi)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thecodermehedi/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](http://instagram.com/thecodermehedi)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/thecodermehedi) [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thecodermehedi) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thecodermehedi@gmail.com)
 
@@ -52,5 +52,7 @@ I'm <b>Mehedi</b>, a Full Stack 🧑🏻‍💻 Developer from <b>Bangladesh</b>
 </div>
 
 ![snake gif](https://github.com/thecodermehedi/thecodermehedi/blob/output/github-contribution-grid-snake-dark.svg)
+
+### Visitors
 
 [![Views](https://komarev.com/ghpvc/?username=thecodermehedi&color=1a71ff&style=for-the-badge&label=👁️👁️)](https://github.com/thecodermehedi)
