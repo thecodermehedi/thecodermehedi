@@ -1,6 +1,6 @@
 ## 😎 Nice to see you here 👋 
 
-I'm <b>Mehedi</b>, a Full Stack 🧑🏻‍💻 Developer from <b>Bangladesh</b>. Who spend most of time ⛓️ coding & 🥼 experimenting.
+I'm <b>Mehedi</b>, a Full Stack Web Developer from <b>Bangladesh</b>. Who spend most of time 🧑🏻‍💻 coding & 🥼 experimenting.
 
 ### ☕ Connect with me
 
