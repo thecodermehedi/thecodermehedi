@@ -1,6 +1,6 @@
 ## 😎 Nice to see you here 👋 
 
-I'm <b>Mehedi</b>, a Full Stack Web Application Developer from <b>Bangladesh</b>. Who spend most of time 🧑🏻‍💻 coding & 🥼 experimenting.
+I'm <b>Mehedi</b>, a Full Stack 🧑🏻‍💻 Developer from <b>Bangladesh</b>. Who spend most of time ⛓️ coding & 🥼 experimenting.
 
 #### ☕ Connect with me
 
@@ -22,7 +22,7 @@ I'm <b>Mehedi</b>, a Full Stack Web Application Developer from <b>Bangladesh</b>
 </td>
     </tr>
     <tr>
-        <td>🧰Backend</td>
+        <td>⚙️Backend</td>
         <td><img src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
 <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
@@ -44,7 +44,7 @@ I'm <b>Mehedi</b>, a Full Stack Web Application Developer from <b>Bangladesh</b>
 </td>
     </tr>
     <tr>
-    <td>🛠 Tools</td>
+    <td>🛠Tools</td>
     <td>
     <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
     <img src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
