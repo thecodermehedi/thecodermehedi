@@ -47,8 +47,8 @@ I'm <b>Mehedi</b>, a Full Stack Web Developer from <b>Bangladesh</b>. Who spend 
 ### 📊 Stats
 
 <div style="display: flex;">
-  <img alt="Stats" src="https://github-readme-stats-thecodermehedi.vercel.app/api?username=thecodermehedi&layout=compact&hide_border=true&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats\&rank_icon=github&hide_title=true" style="height: 200; width: 49%;">
-  <img alt="Languages" src="https://github-readme-stats-thecodermehedi.vercel.app/api/top-langs/?username=thecodermehedi&layout=compact&langs_count=8&hide_border=true&theme=github_dark&hide_title=true" style="height: 200; width: 49%;">
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=thecodermehedi&layout=compact&hide_border=true&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats\&rank_icon=github&hide_title=true" style="height: 200; width: 49%;">
+  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodermehedi&layout=compact&langs_count=8&hide_border=true&theme=github_dark&hide_title=true" style="height: 200; width: 49%;">
 </div>
 
 ![snake gif](https://github.com/thecodermehedi/thecodermehedi/blob/output/github-contribution-grid-snake-dark.svg)
