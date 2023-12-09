@@ -1,5 +1,4 @@
-![cover-photo](./cover.png)
-
+![cover-photo](./profile_cover.png)
 <div align="center">
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;Nice+to+see+you+here+%F0%9F%91%8B;Feel+free+to+explore+and+connect!)](https://git.io/typing-svg) -->
@@ -10,11 +9,6 @@
 </p>
 
 
-
-
-
-
-
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&&labelColor=black)](https://www.linkedin.com/in/thecodermehedi/) [![x](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&labelColor=black)](https://x.com/thecodermehedi) [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white?style=for-the-badge&labelColor=black)](https://t.me/thecodermehedi) [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white?style=for-the-badge&labelColor=black)](mailto:iammehedihasan@protonmail.com)
  
 
@@ -23,19 +17,19 @@
 
 ## 
 
-⚒️ Currently working on how to write clean code.
+⚒️ Currently working on [**Portfolio**](https://thecodermehedi.me).
 
 🧠 Currently learning [**NextJs**](https://nextjs.org)
 
 🔭 Currently exploring [**Typescript**](https://www.typescriptlang.org).
 
-🧐 Currently looking to collaborate on open source projects.
+<!-- 🧐 Currently looking to collaborate on open source projects. -->
 
-🤔 Currently trying to improve my portfolio.
+<!-- 🤔 Currently trying to improve my portfolio. -->
 
 <!-- ✍️ Enjoy writing blogs on [**Dev.to**](https://dev.to/thecodermehedi) -->
 
-<!-- 📫 Mail me: [**thecodermehedi@gmail.com**](mailto:thecodermehedi@gmail.com) -->
+📫 Mail me: [**thecodermehedi@gmail.com**](mailto:thecodermehedi@gmail.com)
 
  ❤️ Enjoy crafting things like **[vscode-theme](https://dub.sh/clearview)**, **[ohmyposh-theme](https://dub.sh/dualsimplicity)**
 
