@@ -1,20 +1,60 @@
+![cover-photo](./cover.png)
+
 <div align="center">
 
-## 😎 Nice to see you here 👋
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;Nice+to+see+you+here+%F0%9F%91%8B;Feel+free+to+explore+and+connect!)](https://git.io/typing-svg) -->
 
-I'm <b>Mehedi</b>, a Full Stack Web Developer from <b>Bangladesh</b>. Who spend most of time 🧑🏻‍💻 coding & 🥼 experimenting.
 
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thecodermehedi/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/thecodermehedi) [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thecodermehedi)
+<p align="center">
+  <a href="#"><img width="500px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=00ff88&size=22&center=true&lines=Welcome+to+my+GitHub+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
+</p>
+
+
+
+
+
+
+
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&&labelColor=black)](https://www.linkedin.com/in/thecodermehedi/) [![x](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&labelColor=black)](https://x.com/thecodermehedi) [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white?style=for-the-badge&labelColor=black)](https://t.me/thecodermehedi) [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white?style=for-the-badge&labelColor=black)](mailto:iammehedihasan@protonmail.com)
+ 
 
 </div>
 
-<!--   ### ☕ Connect with me -->
+
+## 
+
+⚒️ Currently working on how to write clean code.
+
+🧠 Currently learning [**NextJs**](https://nextjs.org)
+
+🔭 Currently exploring [**Typescript**](https://www.typescriptlang.org).
+
+🧐 Currently looking to collaborate on open source projects.
+
+🤔 Currently trying to improve my portfolio.
+
+<!-- ✍️ Enjoy writing blogs on [**Dev.to**](https://dev.to/thecodermehedi) -->
+
+<!-- 📫 Mail me: [**thecodermehedi@gmail.com**](mailto:thecodermehedi@gmail.com) -->
+
+ ❤️ Enjoy crafting things like **[vscode-theme](https://dub.sh/clearview)**, **[ohmyposh-theme](https://dub.sh/dualsimplicity)**
+
+<!--⚡ Fun fact: My code **DOESN’T** work, I have no idea why. My code **WORKS**, I have no idea why. -->
+
+<!-- 🌐 Website: [thecodermehedi.com](https://thecodermehedi.me) -->
+
+
+## 💪 Skills
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,express,nodejs,mongodb,markdown,vercel,firebase,git,github,vscode)
 
 
 
 
 
-### 💬 Ask me about (💪)
+
+
+<!-- ### 💬 Ask me about (💪)
 
 <table border="0">
 <tr>
@@ -68,22 +108,46 @@ I'm <b>Mehedi</b>, a Full Stack Web Developer from <b>Bangladesh</b>. Who spend 
     
   </td>
 </tr>
-</table>
+</table> -->
 
-### 📊 Stats
+## 🌐 Stats
 
-<!-- <img style="height: 200; width: 100%;" alt="Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=thecodermehedi&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
--->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecodermehedi&theme=github_dark) -->
 
-<div style="display: flex">
 
-  <img style="height: 200; width: 100%;" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=thecodermehedi&layout=compact&hide_border=true&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats\&rank_icon=github&hide_title=true" >
+<!-- ![github-stats](https://stats.dooboo.io/api/github-stats?login=thecodermehedi) -->
+
+
+  <img style="height: 270; width: 100%;" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=thecodermehedi&layout=compact&hide_border=true&theme=transparent&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats\&rank_icon=github&hide_title=true&icon_color=3B82F6&text_color=00ff88" >
 
 <!--  <img style="height: 200; width: 49%;" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodermehedi&layout=compact&langs_count=8&hide_border=true&theme=github_dark&hide_title=true" > -->
 
- </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+## 🔥 Streak
+
+<img style="height: 270; width: 100%;" alt="Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=thecodermehedi&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=00ff88&sideLabels=3B82F6&currStreakNum=00ff88&ring=00ff88&currStreakLabel=3B82F6&sideNums=00ff88" />
+
+
+<!-- <details>
+<summary> <h2>🔥 Streak</h2> </summary>
+
+<img style="height: 270; width: 100%;" alt="Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=thecodermehedi&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=3B82F6&sideLabels=2563EB&currStreakNum=3B82F6&ring=3B82F6&currStreakLabel=2563EB&sideNums=3B82F6" />
+
+</details> -->
+
+##
 ![snake gif](https://github.com/thecodermehedi/thecodermehedi/blob/output/github-contribution-grid-snake-dark.svg)
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thecodermehedi&color=1a71ff&style=for-the-badge&label=👁️👁️"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thecodermehedi&color=2563EB&style=for-the-badge&label=👁️👁️"> </p>
+
+
+<!-- <div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/thecodermehedi/count.svg)
+
+</div> -->
