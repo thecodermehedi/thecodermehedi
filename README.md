@@ -49,7 +49,7 @@
 
 
 
-<!-- ### 💬 Ask me about (💪)
+### 💬 Ask me about (💪)
 
 <table border="0">
 <tr>
@@ -103,7 +103,7 @@
     
   </td>
 </tr>
-</table> -->
+</table>
 
 ## 🌐 Stats
 
