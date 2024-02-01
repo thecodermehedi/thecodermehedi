@@ -1,6 +1,9 @@
-![profile_cover](./profile_cover.png)
+<!-- ![profile_cover](./profile_cover.png) -->
 
 <div align="center">
+
+# Mehedi Hasan
+## A passionate web developer on a journey to become a 10x developer
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;Nice+to+see+you+here+%F0%9F%91%8B;Feel+free+to+explore+and+connect!)](https://git.io/typing-svg) -->
 
@@ -22,7 +25,7 @@
 
 🧠 Currently learning [**NextJs**](https://nextjs.org)
 
-🔭 Currently exploring [**Typescript**](https://www.typescriptlang.org).
+🔭 Currently exploring [**shadcn/ui**](https://github.com/shadcn-ui/ui).
 
 <!-- 🧐 Currently looking to collaborate on open source projects. -->
 
@@ -30,7 +33,7 @@
 
 <!-- ✍️ Enjoy writing blogs on [**Dev.to**](https://dev.to/thecodermehedi) -->
 
-📫 Mail me: [**thecodermehedi@gmail.com**](mailto:thecodermehedi@gmail.com)
+📫 Mail me: [**iammehedihasan@protonmail.com**](mailto:iammehedihasan@protonmail.com)
 
  ❤️ Enjoy crafting things like **[vscode-theme](https://dub.sh/clearview)**, **[ohmyposh-theme](https://dub.sh/dualsimplicity)**
 
