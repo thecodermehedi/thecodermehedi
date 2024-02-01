@@ -1,18 +1,17 @@
 <!-- ![profile_cover](./profile_cover.png) -->
 
 <div align="center">
-  
-<img src="https://avatars.githubusercontent.com/u/89072438?v=4" width="100px" height="100px" />
-  
-# Mehedi Hasan
-## A passionate web developer on a journey to become a 10x developer
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;Nice+to+see+you+here+%F0%9F%91%8B;Feel+free+to+explore+and+connect!)](https://git.io/typing-svg) -->
-
 
 <p align="center">
   <a href="#"><img width="500px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=4078c0&size=22&center=true&lines=Welcome+to+my+GitHub+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
 </p>
+  
+Hello, I am Mehedi Hasan an independent web developer, blogger and open-source enthusiast based in Dhaka, Bangladesh. I specialize in developing creative, user-friendly, responsive and minimalistic websites and web applications using modern technologies.
+
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;Nice+to+see+you+here+%F0%9F%91%8B;Feel+free+to+explore+and+connect!)](https://git.io/typing-svg) -->
+
+
+
 
 
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&&labelColor=black)](https://www.linkedin.com/in/thecodermehedi/) [![x](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&labelColor=black)](https://x.com/thecodermehedi) [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black)](https://t.me/thecodermehedi) [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=black)](mailto:iammehedihasan@protonmail.com)
