@@ -1,7 +1,9 @@
 <!-- ![profile_cover](./profile_cover.png) -->
 
 <div align="center">
-
+  
+<img src="https://avatars.githubusercontent.com/u/89072438?v=4" width="100px" height="100px" />
+  
 # Mehedi Hasan
 ## A passionate web developer on a journey to become a 10x developer
 
