@@ -25,7 +25,9 @@ Hello, I am <b> Mehedi Hasan </b> a junior <b>software engineer </b> based in Dh
 💼 Currently working at [**ET Tech Limited**](https://github.com/etlimited)
 
 
-🧠 Currently learning [**Typescript**](https://www.typescriptlang.org/), [**NextJs**](https://nextjs.org), [**Redux**](https://redux.js.org/)
+🧠 Currently learning [**Typescript**](https://www.typescriptlang.org/)
+
+<!-- [**NextJs**](https://nextjs.org), [**Redux**](https://redux.js.org/) -->
 
 🔭 Currently exploring [**shadcn/ui**](https://github.com/shadcn-ui/ui).
 
