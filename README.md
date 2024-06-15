@@ -6,7 +6,7 @@
   <a href="#"><img width="500px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=4078c0&size=22&center=true&lines=Welcome+to+my+GitHub+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
 </p>
   
-Hello, I am <b> Mehedi Hasan </b> a junior <b>software engineer </b> based in Dhaka, Bangladesh. I specialize in developing creative, user-friendly, responsive and minimalistic websites and web applications using modern technologies.
+Hello, I am <b> Mehedi Hasan </b> a junior <b>software engineer </b> based in Dhaka, Bangladesh. I specialize in developing creative, user-friendly, responsive, minimalistic websites and web applications using modern technologies.
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;Nice+to+see+you+here+%F0%9F%91%8B;Feel+free+to+explore+and+connect!)](https://git.io/typing-svg) -->
 
