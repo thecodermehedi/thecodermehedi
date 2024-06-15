@@ -50,7 +50,7 @@ Hello, I am <b> Mehedi Hasan </b> a junior <b>software engineer </b> based in Dh
 
 ## 💪 Skills
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,express,nodejs,mongodb,markdown,vercel,firebase,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,express,nodejs,mongodb,markdown,vercel,firebase,git,github,vscode)
 
 
 
@@ -65,6 +65,7 @@ Hello, I am <b> Mehedi Hasan </b> a junior <b>software engineer </b> based in Dh
 <td>Frontend</td> <td><img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white alt="Typescript">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"></td>
@@ -89,6 +90,7 @@ Hello, I am <b> Mehedi Hasan </b> a junior <b>software engineer </b> based in Dh
 <tr>
 <td>Tools</td>
 <td>
+   <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" alt="BUN">
 <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" alt="PNPM">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"> 
@@ -102,7 +104,9 @@ Hello, I am <b> Mehedi Hasan </b> a junior <b>software engineer </b> based in Dh
 <tr>
   <td>Libraries</td>
   <td>
+    <img src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white" alt=RadixUI>
     <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI">
+     <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white alt="Zod">
     <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT">
     <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="React Query">
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
