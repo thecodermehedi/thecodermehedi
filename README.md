@@ -1,12 +1,12 @@
 <!-- ![profile_cover](./profile_cover.png) -->
 
 <div align="center">
-
-<p align="center">
-  <a href="#"><img width="500px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=4078c0&size=22&center=true&lines=Welcome+to+my+GitHub+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
-</p>
   
-Hello, I am <b> Mehedi Hasan </b> a junior <b>software engineer </b> based in Dhaka, Bangladesh. I specialize in developing creative, user-friendly, responsive, minimalistic websites and web applications using modern technologies.
+<p align="center" width="500px">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&pause=1000&color=4078C0&center=true&vCenter=true&random=false&width=450&lines=Welcome+to+my+GitHub+profile+%F0%9F%98%87;Happy+to+see+you+here+%F0%9F%98%80;Specializing+in+Full+Stack+Development+%F0%9F%92%BB;Building+Creative+and+Responsive+Web+Apps+%F0%9F%8C%90;Let's+Collaborate+on+Amazing+Projects+%F0%9F%A4%9D;Feel+Free+to+Reach+Out+%F0%9F%A4%97;Have+a+Great+Day+%F0%9F%98%8A" alt="Typing SVG" /></a>
+</p>
+
+Hello, I am **Mehedi Hasan**, a junior **full stack software engineer** based in Dhaka, Bangladesh. I specialize in developing creative, user-friendly, responsive, and minimalistic websites and web applications using modern technologies. I am passionate about crafting efficient and scalable solutions, and I excel in dynamic, collaborative environments. Feel free to connect with me to discuss exciting opportunities or potential collaborations.
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;Nice+to+see+you+here+%F0%9F%91%8B;Feel+free+to+explore+and+connect!)](https://git.io/typing-svg) -->
 
